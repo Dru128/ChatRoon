@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899417783818",
+    "firebase_url": "https://chatroon-c2e78.firebaseio.com",
+    "project_id": "chatroon-c2e78",
+    "storage_bucket": "chatroon-c2e78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899417783818:android:6632632413ec2bd79869f3",
+        "android_client_info": {
+          "package_name": "com.example.chatroon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899417783818-cv1usgj9nat9hoq7r0vu4bqnvbolcun6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrd0FMGiEJZNELi34Os3xRVPZLlwYmMu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899417783818-cv1usgj9nat9hoq7r0vu4bqnvbolcun6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
