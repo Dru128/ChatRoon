@@ -49,7 +49,7 @@ class MainActivity : AppCompatActivity()
             override fun onDataChange(dataSnapshot: DataSnapshot) {
                 //Очищаем список сообщений
                 messageList.clear()
-                // Тут происходит МАГИЯ!
+                // Тут происходит МАГИЯ!!!
                 // Из потока данных, возвращаемых из БД, который есть текстовое представление списка объектов
                 // восстанавливаются объекты типа Message и записываются в список messageList
                 dataSnapshot.children.mapNotNullTo(messageList) { it.getValue<Message>(Message::class.java) }
